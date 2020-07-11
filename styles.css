@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Merienda+One&display=swap');
 nav {
     background-image: url("./images/color.jpg");
     flex-direction: row;
@@ -13,6 +14,19 @@ nav {
 }
 #nav:hover {
     color: rgb(255, 255, 255);
+}
+.name {
+    font-family: 'Merienda One', cursive;
+    color: teal;
+    text-align: center;
+    font-weight: bolder;
+}
+ul {
+    text-align: center;
+    font-weight: 900;
+    color: rgb(20, 12, 5);
+    font-family: 'Kalam', cursive;
+    font-size: large;
 }
 
     
