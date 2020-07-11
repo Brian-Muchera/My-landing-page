@@ -63,5 +63,8 @@ ul {
     font-style: normal;
     text-align: start;
     font-size: x-large;
-    
+}
+#hob>h1{
+    font-family: 'Kalam', cursive;
+    text-align: center;
 }
