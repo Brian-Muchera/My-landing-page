@@ -59,3 +59,8 @@ ul {
     color: rgb(48, 116, 27);
     font-style: oblique;
 }
+.desc>h1{
+    font-style: normal;
+    text-align: start;
+    font-size: x-large;
+}
