@@ -78,3 +78,8 @@ ul {
     text-align: center;
     color: #800000;
 }
+.inter{
+    box-shadow: black;
+    border-radius: inherit;
+    padding: 0;
+}
