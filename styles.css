@@ -73,3 +73,8 @@ ul {
     font-family: 'Permanent Marker', cursive;
     color: hsl(286, 100%, 50%);
 }
+.inter>h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #800000;
+}
