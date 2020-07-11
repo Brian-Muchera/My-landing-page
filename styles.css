@@ -48,8 +48,14 @@ ul {
 #lang>p{
     text-align: center;
     color: rgb(231, 12, 12);
+    font-size: x-large;
 }
 #lang>ul>li{
     font-size: x-large;
     font-family: 'Permanent Marker', cursive;
+}
+#back>h1{
+    text-align: center;
+    color: rgb(48, 116, 27);
+    font-style: oblique;
 }
