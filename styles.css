@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 nav {
     background-image: url("./images/color.jpg");
     flex-direction: row;
@@ -47,4 +48,8 @@ ul {
 #lang>p{
     text-align: center;
     color: rgb(231, 12, 12);
+}
+#lang>ul>li{
+    font-size: x-large;
+    font-family: 'Permanent Marker', cursive;
 }
