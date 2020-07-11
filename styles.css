@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+nav {
+    background-image: url("./images/color.jpg");
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Merienda One', cursive;
+    padding: 50px;
+    justify-content: space-around;
+    padding-bottom: inherit;
+}
+#nav {
+    color: #000000;
+}
+#nav:hover {
+    color: rgb(255, 255, 255);
+}
+
+    
