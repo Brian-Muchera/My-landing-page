@@ -28,5 +28,16 @@ ul {
     font-family: 'Kalam', cursive;
     font-size: large;
 }
+.brief {
+    font-style: italic;
+    font-weight: normal;
+    font-size: x-small;
+}
+#cheetah {
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    justify-content: space-evenly;
+}
 
     
