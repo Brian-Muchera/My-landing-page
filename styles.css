@@ -68,3 +68,8 @@ ul {
     font-family: 'Kalam', cursive;
     text-align: center;
 }
+#hob>h2{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: hsl(286, 100%, 50%);
+}
