@@ -44,3 +44,7 @@ ul {
     font-weight: normal;
     font-size: 15px;
 }
+#lang>p{
+    text-align: center;
+    color: rgb(231, 12, 12);
+}
