@@ -106,3 +106,6 @@ ul {
 .inter{
     background-image: url("./images/90B1835_panzoom@2x.jpg");
 }
+.inter>p{
+    color: #ffffff;
+}
