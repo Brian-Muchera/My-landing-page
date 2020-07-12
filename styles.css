@@ -46,6 +46,8 @@ ul {
     padding-bottom: 0;
     justify-content: space-evenly;
     background-image: url("./images/grunge-concrete-wall-white-grey-color-texture-vintage-background_1484-2162.jpg");
+    background-color: grey;
+ 
 }
 .projec, .project {
     font-style: italic;
