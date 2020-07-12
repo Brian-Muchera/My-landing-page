@@ -13,7 +13,7 @@
   ## Instructions to set up
   -clone into the repo
   ```
-  $ git clone repository"link"
+  $ git clone "repository link"
   ```
   -get into the project
   ```
