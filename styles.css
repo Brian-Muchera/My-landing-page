@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Merienda+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&display=swap');
 nav {
     background-image: url("./images/color.jpg");
     flex-direction: row;
@@ -87,4 +88,9 @@ ul {
 #icon{
     flex-direction: column;
     text-align: center;
+}
+.more{
+    text-align: center;
+    color: rgb(14, 14, 201);
+    font-family: 'Grenze Gotisch', cursive;
 }
