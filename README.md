@@ -25,7 +25,7 @@
   ```
   -Open live server on vscode
 
-  ##Live Link to the project
+  ## Live Link to the project
    https://brian-muchera.github.io/My-landing-page/
 
  ## License
