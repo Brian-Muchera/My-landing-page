@@ -113,3 +113,6 @@ ul {
 .inter>p{
     color: #ffffff;
 }
+ul>li{
+    list-style: none;
+}
