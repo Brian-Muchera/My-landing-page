@@ -94,3 +94,6 @@ ul {
     color: rgb(14, 14, 201);
     font-family: 'Grenze Gotisch', cursive;
 }
+#pic{
+    background-image: url("./images/red-wave-background.jpg");
+}
